@@ -27,3 +27,5 @@ This project is using to manage your hotel
 ![alt text](https://github.com/TranMinhThang123/Hotel-management-System/blob/master/Image/AdminSite.png)
 >## User screenshot
 ![alt text](https://github.com/TranMinhThang123/Hotel-management-System/blob/master/Image/UserSite.png)
+# Note:
+## I'm using password "123" for my database, so if you can create connection to the database, let change your db password
