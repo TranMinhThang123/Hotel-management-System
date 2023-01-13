@@ -13,7 +13,7 @@ This project is using to manage your hotel
 ## How to install 
 ### This project require
 <br>1.JDK 17.
-<br>2.Mysql service.
+<br>2.Mysql server.
 <br>3.mysql-connector-java-5.1.48.jar.
 ### Install and run
 ><br>B1:git clone https://github.com/TranMinhThang123/Hotel-management-System.git.
