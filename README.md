@@ -20,3 +20,10 @@ This project is using to manage your hotel
 ><br>B2:import mysql-connector-java-5.1.48.jar file to project.
 ><br>B3:Run sql file to create database and insert some necessary data.
 ><br>B4:Chay file Hotelmanagementsystem.java
+## Screen
+>## Login screenshot
+![alt text](https://github.com/TranMinhThang123/Hotel-management-System/blob/master/Image/LoginScreen.png)
+>## Admin screenshot
+![alt text](https://github.com/TranMinhThang123/Hotel-management-System/blob/master/Image/AdminSite.png)
+>## User screenshot
+![alt text](https://github.com/TranMinhThang123/Hotel-management-System/blob/master/Image/UserSite.png)
