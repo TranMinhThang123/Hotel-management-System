@@ -11,7 +11,7 @@ This project is using to manage your hotel
 ><br>Order service.
 ><br>Book Room.
 ## How to install 
-### This projec require
+### This project require
 <br>1.JDK 17.
 <br>2.Mysql service.
 <br>3.mysql-connector-java-5.1.48.jar.
